@@ -1,7 +1,7 @@
 ---
 name: PetaBencana
 image: ./image.png
-summary: Open platform to facilitate crowd sourced disaster reportind via social media.
+summary: Open platform to facilitate crowd sourced disaster reporting via social media.
 context: |
   CDL is partnering with [Yayasan Peta Bencana](https://info.petabencana.id/foundation/) in building a disaster reporting platform - [PetaBencana.id](https://petabencana.id/). The platform allows the users to report disasters, through a web-based platform or through social media, and displays the location, type and status of disasters on a map in real-time. This platform displays reports made by citizens, along with information from conventional sources of government agencies. The platform has helped plan better responses to disasters and has helped citizens make better decisions about their safety. Since its inception in 2014, a total of 20,161 reports have been made on the platform, helping plan better response. 
   
